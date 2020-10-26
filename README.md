@@ -107,7 +107,7 @@ const testGreeting = () => {
 };
 ```
 
-Note that in Exercise 1, oour promise didn't include a `catch()`. It was attached to the function call. From this exercise onward, let's move it into the promise and let it deal with the errors.
+Note that in Exercise 1, our promise didn't include a `catch()`. It was attached to the function call. From this exercise onward, let's move it into the promise and let it deal with the errors.
 
 ### Exercise 2.2 - How do I say "hello" in... ?
 
